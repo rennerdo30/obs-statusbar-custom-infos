@@ -1,17 +1,17 @@
 #include "statusbar.h"
 
 #include <obs-frontend-api.h>
-#include <qguiapplication.h>
-#include <qmainwindow.h>
+#include <QGuiApplication>
+#include <QMainWindow>
 #include <QHBoxLayout>
-#include <qlabel.h>
-#include <qstatusbar.h>
-#include <qdir.h>
-#include <qfilesystemwatcher.h>
-#include <qstringlist.h>
-#include <qset.h>
-#include <qfile.h>
-#include <qtextstream.h>
+#include <QLabel>
+#include <QStatusBar>
+#include <QDir>
+#include <QFileSystemWatcher>
+#include <QStringList>
+#include <QSet>
+#include <QFile>
+#include <QTextStream>
 
 #include <obs-module.h>
 #include <obs.hpp>
