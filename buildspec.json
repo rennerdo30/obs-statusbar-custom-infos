@@ -36,13 +36,13 @@
             "bundleId": "com.example.obs-plugintemplate"
         }
     },
-    "name": "obs-plugintemplate",
-    "displayName": "OBS Plugin Template",
+    "name": "obs-statusbar-custom-infos",
+    "displayName": "OBS Plugin for displaying custom information in the status bar",
     "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com",
+    "author": "rennerdo30",
+    "website": "https://renner.dev",
+    "email": "obs@renner.dev",
     "uuids": {
-        "windowsApp": "00000000-0000-0000-0000-000000000000"
+        "windowsApp": "9880ecc3-097e-4d20-8fc0-e2713b2bb02b"
     }
 }
